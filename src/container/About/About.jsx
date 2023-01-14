@@ -46,13 +46,3 @@ export default AppWrap(
   'about',
   'app__whitebg',
 );
-
-
-// import { images } from '../../constants';
-
-// const abouts = [
-//   { title: 'Web Development', description: 'I am a good Web Developer', imgUrl: images.about01},
-//   { title: 'Smart Contract Development', description: 'I am a decent Smart Contact Developer', imgUrl: images.about02},
-//   { title: 'NFT Marketplace Development', description: 'I am a good web developer', imgUrl: images.about03},
-//   { title: 'Web Design', description: 'I am a good Web Designer', imgUrl: images.about04}
-// ];
